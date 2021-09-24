@@ -141,9 +141,8 @@ Grid
   box-sizing: border-box;
 }
 body {
-  background-color: #1f1322 /*#5E5E5E*/;
+  background-color: #baa289 /*#5E5E5E*/;
   background-image: url("img/Lamborghini.jpg");
-  background-repeat: no-repeat;
   background-size: 100% auto;
   background-position: top;
   background-repeat: repeat-y;
